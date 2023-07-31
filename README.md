@@ -1,2 +1,2 @@
 # moduleA
-module A code using module B
+module A code used in module B
